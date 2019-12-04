@@ -1,6 +1,6 @@
 <?php
 $host='localhost';
-$db = 'adise19_chess1';
+$db = 'adise19_chessf';
 require_once "config_local.php";
 
 $user=$DB_USER;
